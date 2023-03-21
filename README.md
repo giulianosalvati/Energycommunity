@@ -1,1 +1,2 @@
-# Energycommunity
+# Energy Community Case Study
+
