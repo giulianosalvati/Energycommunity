@@ -1,4 +1,4 @@
-***Renewable Energy Community management case***
+***Renewable Energy Community management [ Income Maximisation problem]***
 
 <img width="1192" alt="Schermata 2023-03-13 alle 19 48 37" src="https://user-images.githubusercontent.com/90151503/226695063-4fe8e5e7-0334-4b42-815c-bcfa558f68f6.png">
 
